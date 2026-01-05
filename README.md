@@ -1,14 +1,13 @@
 # Hi 👋 I'm Md. Mahmudul Hasan
 
-### 🎓 Undergraduate CSE Student | 💻 Software Developer | 🔐 Cybersecurity Learner 🇧🇩
+### 🎓 Undergraduate CSE Student | 🔐 Cybersecurity Learner 🇧🇩
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m4hmudh4s44n&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 Currently learning **Backend Development & Cyber Security**
 - 🛠 Building **real-world academic & personal projects**
-- 🧠 Interested in **CTFs, OSINT, Web Security & System Design**
-- 📫 Reach me at **m4hmudh4s44n@gmail.com**
-- ⚡ Fun fact: I learn best by **breaking & building systems**
+- 🧠 Interested in **CTFs, OSINT, Digital Forensics & System Design**
+- 📫 Reach me at **mahmudulhasan2104101@gmail.com**
 
 ---
 
@@ -36,9 +35,9 @@
   - TryHackMe
   - CTFtime
 - 🔍 Interested Areas:
-  - Web Exploitation  
+  - Digital Forensics  
   - OSINT  
-  - Linux Privilege Escalation  
+  - Steganography  
   - Networking Basics  
 
 <p align="left">
@@ -79,10 +78,9 @@
 
 ## 🧭 Currently Learning
 
-- ✅ Data Structures & Algorithms  
-- ✅ Backend (Node.js, APIs)  
-- 🔄 Cyber Security Fundamentals  
-- 🔄 Web Security & Vulnerabilities  
+- ✅ Machine Learning  
+- ✅ SOC Analyst Level-1   
+- 🔄 Cyber Security Fundamentals   
 - 🔜 Advanced CTF Techniques  
 
 ---
