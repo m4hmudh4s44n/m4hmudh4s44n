@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m4hmudh4s44n&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 Currently learning **Backend Development & Cyber Security**
+- 🌱 Currently learning **SOC & Blue teaming stuffs**
 - 🛠 Building **real-world academic & personal projects**
 - 🧠 Interested in **CTFs, OSINT, Digital Forensics & System Design**
 - 📫 Reach me at **mahmudulhasan2104101@gmail.com**
